@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "audioEnabled": true,
+  "audioEnabled": false,
   "downloadsEnabled": true,
   "disabledReciters": [],
   "purgeReciters": [],
