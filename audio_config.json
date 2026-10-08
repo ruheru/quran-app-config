@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "audioEnabled": true,
+  "downloadsEnabled": true,
+  "disabledReciters": [],
+  "purgeReciters": [],
+  "baseUrl": "https://everyayah.com/data",
+  "message": null
+}
