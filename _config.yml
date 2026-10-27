@@ -1,0 +1,7 @@
+# GitHub Pages (Jekyll) settings for ruheru/quran-app-config. Upload this
+# file to the root of that repository, next to privacy.md and
+# audio_config.json. It only sets the site title shown in the page header
+# and the browser tab; audio_config.json is still served as it is.
+title: Al-Quran Indonesia
+description: Kebijakan privasi aplikasi Al-Quran Indonesia
+lang: id

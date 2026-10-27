@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kebijakan Privasi — Al-Quran Indonesia
+title: Kebijakan Privasi
 permalink: /privacy/
 ---
 
@@ -183,8 +183,20 @@ has no ads and no accounts.
   processed entirely by Google Play. The app receives no card or payment
   details and keeps no purchase history; Google Play keeps it in your
   Google account. Support is voluntary and unlocks no premium feature.
-- **Notifications and alarms** are scheduled and stored on the device.
+- **Notifications and alarms:** the notification and exact-alarm
+  permissions are used for prayer-time reminders, the daily hadith, the
+  recitation player and, if you turn it on, the schedule in the
+  notification panel. Everything is scheduled and stored on the device.
 - **Children:** the app is not directed at children and collects no
   personal data from anyone.
+- **Your rights:** we keep no app data about you on a server. You can
+  delete all data on the device at any time in Android's settings (Clear
+  data) or by uninstalling the app. If you have emailed us (including an
+  adhan recording), you can ask us to delete the email and its attachments
+  at the address below. If your recording is already used in the app, the
+  permission you gave stays in force under the terms you accepted, and we
+  keep the email containing it as proof.
 - **Changes** are published on this page with a new effective date.
+  Changes that add any data collection will also be announced in the app's
+  release notes.
 - **Contact:** support.quranindonesia@gmail.com
